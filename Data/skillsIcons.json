@@ -67,6 +67,10 @@
     {
       "name": "Expo",
       "icon": "https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/expo/expo-original.svg"
+    },
+    {
+      "name": "Electron",
+      "icon": "https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/electron/electron-original.svg"
     }
   ]
 }
