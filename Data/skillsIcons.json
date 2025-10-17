@@ -51,22 +51,6 @@
     {
       "name": "Git",
       "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    },
-    {
-      "name": "GitHub",
-      "icon": "https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/github/github-original.svg"
-    },
-    {
-      "name": "VS Code",
-      "icon": "https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vscode/vscode-original.svg"
-    },
-    {
-      "name": "PyCharm",
-      "icon": "https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/pycharm/pycharm-original.svg"
-    },
-    {
-      "name": "Expo",
-      "icon": "https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/expo/expo-original.svg"
     }
   ]
 }
