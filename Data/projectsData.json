@@ -7,7 +7,7 @@
       "description": "A CV generator app that creates ATS-friendly resumes.",
       "codeLink": "https://github.com/FakhirAhmedKhan/CVGenerator",
       "imageUrl": "https://raw.githubusercontent.com/FakhirAhmedKhan/DataApi-main/refs/heads/main/ATS-Calculator.avif",
-      "category": "Tool"
+      "category": "SAAS"
     },
     {
       "id": 1,
@@ -25,7 +25,7 @@
       "description": "An ATS (Applicant Tracking System) calculator is a tool that assesses your resume's",
       "codeLink": "https://github.com/FakhirAhmedKhan/ATS-Calculator",
       "imageUrl": "https://raw.githubusercontent.com/FakhirAhmedKhan/DataApi-main/refs/heads/main/Landing-page.avif",
-      "category": "Tool"
+      "category": "SAAS"
     },
     {
       "id": 3,
